@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=4000&pause=800&color=A7A459&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=80&lines=Hello%2C+I'm+Yuan!🇵🇭;DLSU+Student+%7C+Aspiring+%3CBRUHH+IDK%3E" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=4000&pause=800&color=A7A459&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=80&lines=Hello%2C+I%27m+Yuan!%F0%9F%87%B5%F0%9F%87%AD;DLSU+Student+%7C+Aspiring+%3CBRUHH+IDK%3E" alt="Typing intro" />
 </p>
 
 <!-- 👁️‍🗨️ Profile Views -->
