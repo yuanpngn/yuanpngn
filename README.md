@@ -1,18 +1,31 @@
+<!-- 🧢 Capsule Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Mabuhay!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=Mabuhay!%20I'm%20Yuan%20Pangan%20🕹️&animation=fadeIn&type=waving&color=gradient&fontColor=ffffff&height=160&fontSize=40&desc=Welcome+to+my+GitHub+Garage!&descAlignY=70&descAlign=65"/>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;I'm+%2C+a+Yuan+Pangan+%E2%9C%A9" width="70%" />
-<br><br>
+<!-- 📝 Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=4000&pause=800&color=A7A459&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=80&lines=Hello%2C+I%E2%80%99m+Yuan+Pangan.;MR+Drone+Engineer+%7C+AR%2FVR+Dev.;Red+Bull+Racing+Fan+%F0%9F%8F%8E+%7C+Tech+meets+Track." />
+</p>
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+<!-- 🐍 GitHub Contribution Snake -->
+<p align="center">
+  <img src="https://github.com/yuanpngn/yuanpngn/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
-<h1 align="center">Hi 👋, I'm YUan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<!-- 🙋‍♂️ Intro Heading -->
+<h1 align="center">Hi 👋, I'm Yuan Pangan</h1>
+<h3 align="center">An immersive tech enthusiast from the Philippines 🇵🇭</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yuanpngn&label=Profile%20views&color=0e75b6&style=flat" alt="yuanpngn" /> </p>
+<!-- 👁️‍🗨️ Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yuanpngn&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuanpngn" alt="yuanpngn" /></a> </p>
+<!-- 🏆 GitHub Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yuanpngn&theme=radical&no-bg=true&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
