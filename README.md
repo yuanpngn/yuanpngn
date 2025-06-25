@@ -1,25 +1,30 @@
 <!-- 🧢 Capsule Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Mabuhay!%20I'm%20Yuan%20Pangan%20🕹️&animation=fadeIn&type=waving&color=gradient&fontColor=ffffff&height=160&fontSize=40&desc=Welcome+to+my+GitHub+Garage!&descAlignY=70&descAlign=65"/>
+  <img src="./assets/gif.gif" width="100%" alt="Animated Header" />
 </p>
 
-<!-- 📝 Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=4000&pause=800&color=A7A459&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=80&lines=Hello%2C+I%E2%80%99m+Yuan+Pangan.;MR+Drone+Engineer+%7C+AR%2FVR+Dev.;Red+Bull+Racing+Fan+%F0%9F%8F%8E+%7C+Tech+meets+Track." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=4000&pause=800&color=A7A459&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=80&lines=Hello%2C+I'm+Yuan!;DLSU+Student+%7C+Aspiring+%3CBRUHH+IDK%3E" alt="Typing intro" />
 </p>
 
 <!-- 🐍 GitHub Contribution Snake -->
 <p align="center">
-  <img src="https://github.com/yuanpngn/yuanpngn/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/yuanpngn/yuanpngn/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 <!-- 🙋‍♂️ Intro Heading -->
 <h1 align="center">Hi 👋, I'm Yuan Pangan</h1>
-<h3 align="center">An immersive tech enthusiast from the Philippines 🇵🇭</h3>
+<h3 align="center">\<IDK BRO\> and student from the Philippines 🇵🇭</h3>
 
 <!-- 👁️‍🗨️ Profile Views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yuanpngn&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</p>
+
+<!-- 🎨 Animated Art Gifs -->
+<p align="center">
+  <img src="./assets/basqiat.gif" alt="Art animation 1" width="200" />
+  <img src="./assets/basquiat2.gif" alt="Art animation 2" width="200" />
 </p>
 
 <!-- 🏆 GitHub Trophies -->
