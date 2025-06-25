@@ -4,25 +4,32 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=4000&pause=800&color=A7A459&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=80&lines=Hello%2C+I%27m+Yuan!%F0%9F%87%B5%F0%9F%87%AD;DLSU+Student+%7C+Aspiring+%3CBRUHH+IDK%3E" alt="Typing intro" />
 </p>
 
-<p align="center">
-  <!-- Animated banner below -->
-  <img src="./assets/gif.gif" width="100%" alt="Banner" />
-</p>
-
-<!-- 👁️‍🗨️ Profile Views -->
-<!-- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yuanpngn&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-</p> -->
-
 <!-- 👁️ Visitor Counter -->
 <p align="center">
   <img src="https://profile-counter.glitch.me/yuanpngn/count.svg" alt="Visitor Counter" />
 </p>
 
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=wave&text1=Yuan's+GitHub+Stats&width=1000&height=150" />
+</p>
+
+### ⏱️ Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+### 📊 GitHub Metrics
+
+![Metrics](https://raw.githubusercontent.com/yuanpngn/yuanpngn/main/assets/metrics.svg)
+
+---
+
 <!-- 🎨 Animated Art Gifs -->
 <p align="center">
-  <img src="./assets/basqiat.gif" alt="Art animation 1" width="200" />
-  <img src="./assets/basquiat2.gif" alt="Art animation 2" width="200" />
+  <img src="./assets/basqiat.gif" alt="Art animation 1" width="400" />
+  <img src="./assets/basquiat2.gif" alt="Art animation 2" width="400" />
 </p>
 
 <!-- 🏆 GitHub Trophies -->
