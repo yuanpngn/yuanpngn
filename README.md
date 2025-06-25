@@ -1,20 +1,11 @@
-<!-- 🧢 Capsule Header -->
+
 <p align="center">
   <img src="./assets/gif.gif" width="100%" alt="Animated Header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=4000&pause=800&color=A7A459&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=80&lines=Hello%2C+I'm+Yuan!;DLSU+Student+%7C+Aspiring+%3CBRUHH+IDK%3E" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=4000&pause=800&color=A7A459&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=80&lines=Hello%2C+I'm+Yuan!🇵🇭;DLSU+Student+%7C+Aspiring+%3CBRUHH+IDK%3E" alt="Typing intro" />
 </p>
-
-<!-- 🐍 GitHub Contribution Snake -->
-<p align="center">
-  <img src="https://github.com/yuanpngn/yuanpngn/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
-
-<!-- 🙋‍♂️ Intro Heading -->
-<h1 align="center">Hi 👋, I'm Yuan Pangan</h1>
-<h3 align="center">\<IDK BRO\> and student from the Philippines 🇵🇭</h3>
 
 <!-- 👁️‍🗨️ Profile Views -->
 <p align="center">
