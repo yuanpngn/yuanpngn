@@ -9,22 +9,14 @@
   <img src="https://profile-counter.glitch.me/yuanpngn/count.svg" alt="Visitor Counter" />
 </p>
 
-<p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=wave&text1=Yuan's+GitHub+Stats&width=1000&height=150" />
-</p>
-
 ### ⏱️ Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
+<p align="center">
+  <img src="https://github.com/yuanpngn/yuanpngn/blob/master/images/wakatime.svg" alt="WakaTime stats" />
+</p>
 <!--END_SECTION:waka-->
 
----
-
-### 📊 GitHub Metrics
-
-![Metrics](https://raw.githubusercontent.com/yuanpngn/yuanpngn/main/assets/metrics.svg)
-
----
 
 <!-- 🎨 Animated Art Gifs -->
 <p align="center">
