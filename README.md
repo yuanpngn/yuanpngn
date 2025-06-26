@@ -12,11 +12,12 @@
 ### ⏱️ Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-<p align="center">
+<!--<p align="center">
   <img src="https://github.com/yuanpngn/yuanpngn/blob/master/images/wakatime.svg" alt="WakaTime stats" />
 </p>
 <!--END_SECTION:waka-->
 
+[![Snake](https://raw.githubusercontent.com/yuanpngn/yuanpngn/output/github-contribution-grid-snake.svg)](https://github.com/yuanpngn)
 
 <!-- 🎨 Animated Art Gifs -->
 <p align="center">
