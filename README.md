@@ -12,6 +12,8 @@
 ### ⏱️ Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-23%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-261-blue)
 
 **🐱 My GitHub Data** 
@@ -88,7 +90,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yuanpngn/yuanpngn/main/assets/bar_graph.png)
 
 
- Last Updated on 27/06/2025 08:26:20 UTC
+ Last Updated on 27/06/2025 08:31:43 UTC
 <!--END_SECTION:waka-->
 
 [![Snake](https://raw.githubusercontent.com/yuanpngn/yuanpngn/output/github-contribution-grid-snake.svg)](https://github.com/yuanpngn)
