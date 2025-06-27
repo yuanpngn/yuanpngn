@@ -123,9 +123,12 @@ C#                       1 repo              █░░░░░░░░░░�
 
 <p align="left">
 <a href="https://linkedin.com/in/yuan-pangan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuan-pangan" height="30" width="40" /></a>
+
 <a href="https://instagram.com/yuanpngn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yuanpngn" height="30" width="40" /></a>
-<a href="https://medium.com/yuanpngn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="yuanpngn" height="30" width="40" /></a>
+
 <a href="https://discord.gg/omsm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="omsm" height="30" width="40" /></a>
+
+<a href="https://medium.com/@yuanpngn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="yuanpngn" height="30" width="40" /></a>
 </p>
 
 
