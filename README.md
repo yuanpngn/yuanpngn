@@ -14,7 +14,7 @@
 ### ⏱️ Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-299-blue)
+<!-- ![Profile Views](http://img.shields.io/badge/Profile%20Views-299-blue) -->
 
 **🐱 My GitHub Data** 
 
