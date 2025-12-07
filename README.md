@@ -134,5 +134,6 @@ TypeScript               1 repo              █░░░░░░░░░░�
 <a href="https://medium.com/@yuanpngn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="yuanpngn" height="30" width="40" /></a>
 </p>
 
+https://yuanpangan.netlify.app/
 Last Updated on 27/06/2025 08:31:43 UTC
 
