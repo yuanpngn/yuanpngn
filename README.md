@@ -53,22 +53,16 @@ Sunday                   274 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Other                    41 mins             ███████████████████░░░░░░   74.64 % 
-Python                   13 mins             ██████░░░░░░░░░░░░░░░░░░░   24.74 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Zoom                     32 mins             ███████████████░░░░░░░░░░   58.03 % 
-VS Code                  21 mins             ██████████░░░░░░░░░░░░░░░   38.00 % 
-GitHubDesktop            2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-audio_transcriptor       26 mins             ████████████░░░░░░░░░░░░░   48.47 % 
-u1-journal               20 mins             █████████░░░░░░░░░░░░░░░░   36.59 % 
-u1-portfolio             8 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      55 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -88,7 +82,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yuanpngn/yuanpngn/main/assets/bar_graph.png)
 
 
- Last Updated on 17/01/2026 18:51:52 UTC
+ Last Updated on 18/01/2026 18:54:56 UTC
 <!--END_SECTION:waka-->
 
 
