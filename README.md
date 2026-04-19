@@ -10,6 +10,8 @@
 ### ⏱️ Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-125%20hrs%2040%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -51,16 +53,17 @@ Sunday                   271 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Other                    2 mins              █████████████████████████   100.00 % 
+Other                    20 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Notes                    2 mins              █████████████████████████   100.00 % 
+Zoom                     12 mins             ███████████████░░░░░░░░░░   58.82 % 
+Notes                    8 mins              ██████████░░░░░░░░░░░░░░░   41.18 % 
 
 🐱‍💻 Projects: 
-FizzBuzz                 2 mins              █████████████████████████   100.00 % 
+FizzBuzz                 20 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 mins              █████████████████████████   100.00 % 
+Mac                      20 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -80,7 +83,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yuanpngn/yuanpngn/main/assets/bar_graph.png)
 
 
- Last Updated on 18/04/2026 19:38:48 UTC
+ Last Updated on 19/04/2026 19:38:11 UTC
 <!--END_SECTION:waka-->
 
 
