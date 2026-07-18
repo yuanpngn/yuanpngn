@@ -18,32 +18,32 @@
 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
-> 🏆 65 Contributions in the Year 2026
+> 🏆 74 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 19 Public Repositories 
+> 📜 21 Public Repositories 
  > 
-> 🔑 43 Private Repositories 
+> 🔑 41 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                208 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
-🌆 Daytime                211 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
-🌃 Evening                586 commits         ██████████░░░░░░░░░░░░░░░   38.81 % 
-🌙 Night                  505 commits         ████████░░░░░░░░░░░░░░░░░   33.44 % 
+🌞 Morning                208 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
+🌆 Daytime                214 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
+🌃 Evening                592 commits         ██████████░░░░░░░░░░░░░░░   38.97 % 
+🌙 Night                  505 commits         ████████░░░░░░░░░░░░░░░░░   33.25 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   301 commits         █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
-Tuesday                  255 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
-Wednesday                214 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
-Thursday                 147 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
-Friday                   180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
-Saturday                 141 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
-Sunday                   272 commits         █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
+Monday                   301 commits         █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
+Tuesday                  255 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
+Wednesday                214 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
+Thursday                 147 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+Friday                   180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+Saturday                 150 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
+Sunday                   272 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
 ```
 
 
@@ -53,22 +53,29 @@ Sunday                   272 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               6 hrs 28 mins       ██████████████████░░░░░░░   71.42 % 
+CSS                      1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
+YAML                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+Markdown                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+Text                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              8 hrs 7 mins        ██████████████████████░░░   89.67 % 
+GitHubDesktop            37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
+VS Code                  18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+u1-portfolio             9 hrs 2 mins        █████████████████████████   99.75 % 
+Telemed                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      9 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               14 repos            ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
+JavaScript               15 repos            ███████░░░░░░░░░░░░░░░░░░   27.78 % 
 C++                      8 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
 Python                   7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
 Java                     6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
@@ -82,7 +89,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yuanpngn/yuanpngn/main/assets/bar_graph.png)
 
 
- Last Updated on 17/07/2026 20:04:30 UTC
+ Last Updated on 18/07/2026 20:05:19 UTC
 <!--END_SECTION:waka-->
 
 
