@@ -10,7 +10,7 @@
 ### ⏱️ Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-140%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-149%20hrs%209%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -18,7 +18,7 @@
 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
-> 🏆 74 Contributions in the Year 2026
+> 🏆 76 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -29,21 +29,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                208 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
-🌆 Daytime                214 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
-🌃 Evening                592 commits         ██████████░░░░░░░░░░░░░░░   38.97 % 
-🌙 Night                  505 commits         ████████░░░░░░░░░░░░░░░░░   33.25 % 
+🌞 Morning                208 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+🌆 Daytime                216 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+🌃 Evening                592 commits         ██████████░░░░░░░░░░░░░░░   38.92 % 
+🌙 Night                  505 commits         ████████░░░░░░░░░░░░░░░░░   33.20 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   301 commits         █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
-Tuesday                  255 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
-Wednesday                214 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
-Thursday                 147 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-Friday                   180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
-Saturday                 150 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
-Sunday                   272 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
+Monday                   301 commits         █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
+Tuesday                  255 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
+Wednesday                214 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
+Thursday                 147 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
+Friday                   180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
+Saturday                 150 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
+Sunday                   274 commits         █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
 ```
 
 
@@ -53,23 +53,23 @@ Sunday                   272 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-JavaScript               6 hrs 28 mins       ██████████████████░░░░░░░   71.42 % 
-CSS                      1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
-YAML                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-Markdown                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
-Text                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+JavaScript               7 hrs 38 mins       ██████████████████░░░░░░░   73.56 % 
+CSS                      1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
+YAML                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+Markdown                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
 
 🔥 Editors: 
-Claude Code              8 hrs 7 mins        ██████████████████████░░░   89.67 % 
-GitHubDesktop            37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
-VS Code                  18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+Claude Code              9 hrs 12 mins       ██████████████████████░░░   88.60 % 
+GitHubDesktop            52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
+VS Code                  18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 
 🐱‍💻 Projects: 
-u1-portfolio             9 hrs 2 mins        █████████████████████████   99.75 % 
-Telemed                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+u1-portfolio             10 hrs 22 mins      █████████████████████████   99.78 % 
+Telemed                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 💻 Operating System: 
-Mac                      9 hrs 4 mins        █████████████████████████   100.00 % 
+Mac                      10 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -89,7 +89,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yuanpngn/yuanpngn/main/assets/bar_graph.png)
 
 
- Last Updated on 18/07/2026 20:05:19 UTC
+ Last Updated on 19/07/2026 20:04:07 UTC
 <!--END_SECTION:waka-->
 
 
