@@ -10,7 +10,9 @@
 ### ⏱️ Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-151%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-91%20hrs%2047%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-27%20hrs%2041%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -18,7 +20,7 @@
 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
-> 🏆 82 Contributions in the Year 2026
+> 🏆 85 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -53,25 +55,48 @@ Sunday                   276 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-JavaScript               1 hr 22 mins        ████████████████░░░░░░░░░   63.32 % 
-Other                    39 mins             ████████░░░░░░░░░░░░░░░░░   30.09 % 
-Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+Python                   2 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   29.85 % 
+Other                    1 hr 17 mins        █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
+YAML                     1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
+JavaScript               56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+HTML                     29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
 
 🔥 Editors: 
-Claude Code              1 hr 19 mins        ███████████████░░░░░░░░░░   61.29 % 
-GitHubDesktop            24 mins             █████░░░░░░░░░░░░░░░░░░░░   19.04 % 
-Zoom                     14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
-VS Code                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
-Copilot CLI              3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+Claude Code              4 hrs 36 mins       █████████████████░░░░░░░░   68.02 % 
+GitHubDesktop            1 hr 43 mins        ██████░░░░░░░░░░░░░░░░░░░   25.46 % 
+VS Code                  19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+Copilot CLI              6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
 
 🐱‍💻 Projects: 
-u1-portfolio             1 hr 14 mins        ██████████████░░░░░░░░░░░   57.11 % 
-BMAD                     55 mins             ███████████░░░░░░░░░░░░░░   42.89 % 
+triagent                 5 hrs 41 mins       █████████████████████░░░░   83.79 % 
+BMAD                     1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
+u1-portfolio             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 
 💻 Operating System: 
-Mac                      2 hrs 9 mins        █████████████████████████   100.00 % 
+Mac                      6 hrs 47 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 5 hrs 31 mins (81.41%)
+
+✍️ 2,813 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 34,110,837 Input Tokens, 176,206 Output Tokens
+
+💵 $108.74 Estimated AI Cost This Week
+
+🧠 4 AI Sessions, 153 AI Prompts
+
+Sonnet                   3,185 lines         █████████████████████████   100.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 14,006 characters per prompt
+🔁 Iterative Prompter — average 38 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -91,7 +116,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yuanpngn/yuanpngn/main/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2026 20:07:06 UTC
+ Last Updated on 27/07/2026 20:25:09 UTC
 <!--END_SECTION:waka-->
 
 
