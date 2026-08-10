@@ -31,21 +31,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                211 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
-🌆 Daytime                218 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
-🌃 Evening                599 commits         ██████████░░░░░░░░░░░░░░░   39.00 % 
-🌙 Night                  508 commits         ████████░░░░░░░░░░░░░░░░░   33.07 % 
+🌞 Morning                208 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
+🌆 Daytime                218 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
+🌃 Evening                599 commits         ██████████░░░░░░░░░░░░░░░   39.12 % 
+🌙 Night                  506 commits         ████████░░░░░░░░░░░░░░░░░   33.05 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   305 commits         █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
-Tuesday                  255 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
-Wednesday                216 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-Thursday                 147 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
-Friday                   183 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
-Saturday                 153 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
-Sunday                   277 commits         █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
+Monday                   305 commits         █████░░░░░░░░░░░░░░░░░░░░   19.92 % 
+Tuesday                  255 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
+Wednesday                216 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+Thursday                 147 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
+Friday                   180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Saturday                 151 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
+Sunday                   277 commits         █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
 ```
 
 
@@ -55,45 +55,27 @@ Sunday                   277 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-CSV                      1 hr 22 mins        ███████████████░░░░░░░░░░   59.85 % 
-Python                   47 mins             █████████░░░░░░░░░░░░░░░░   34.38 % 
-Text                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
-Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+CSV                      1 hr 3 mins         █████████████████████░░░░   84.31 % 
+Python                   11 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 5 mins        ███████████████████████░░   91.04 % 
-Claude Code              11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
-GitHubDesktop            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+VS Code                  1 hr 14 mins        █████████████████████████   98.03 % 
+Claude Code              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+GitHubDesktop            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🐱‍💻 Projects: 
-pwd_scraper              2 hrs 17 mins       █████████████████████████   99.55 % 
-triagent                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+pwd_scraper              1 hr 15 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 17 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 15 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 37 mins (27.53%)
-
-✍️ 88 lines written by AI, 132,751 lines written by hand (0.07% AI-written)
-
-🔤 480,242 Input Tokens, 5,587 Output Tokens
-
-💵 $5.27 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 13 AI Prompts
-
-Sonnet                   88 lines            █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.07% of written lines came from AI
-📝 Concise Prompter — average 218 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
-🔍 Hands-On Reviewer — 99.93% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -113,7 +95,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yuanpngn/yuanpngn/main/assets/bar_graph.png)
 
 
- Last Updated on 09/08/2026 19:34:37 UTC
+ Last Updated on 10/08/2026 19:52:47 UTC
 <!--END_SECTION:waka-->
 
 
