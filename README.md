@@ -55,21 +55,20 @@ Sunday                   277 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-CSV                      1 hr 3 mins         █████████████████████░░░░   84.31 % 
-Python                   11 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+CSV                      43 mins             ████████████████████░░░░░   78.78 % 
+Python                   11 mins             █████░░░░░░░░░░░░░░░░░░░░   21.08 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔥 Editors: 
-VS Code                  1 hr 14 mins        █████████████████████████   98.03 % 
-Claude Code              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
-GitHubDesktop            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+VS Code                  53 mins             ████████████████████████░   97.32 % 
+Claude Code              1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+GitHubDesktop            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🐱‍💻 Projects: 
-pwd_scraper              1 hr 15 mins        █████████████████████████   100.00 % 
+pwd_scraper              55 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 15 mins        █████████████████████████   100.00 % 
+Mac                      55 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -95,7 +94,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yuanpngn/yuanpngn/main/assets/bar_graph.png)
 
 
- Last Updated on 11/08/2026 19:56:44 UTC
+ Last Updated on 12/08/2026 19:49:29 UTC
 <!--END_SECTION:waka-->
 
 
