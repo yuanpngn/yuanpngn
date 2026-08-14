@@ -55,20 +55,16 @@ Sunday                   277 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-CSV                      43 mins             ████████████████████░░░░░   78.78 % 
-Python                   11 mins             █████░░░░░░░░░░░░░░░░░░░░   21.08 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  53 mins             ████████████████████████░   97.32 % 
-Claude Code              1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
-GitHubDesktop            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Claude Code              1 min               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-pwd_scraper              55 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      55 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
@@ -94,7 +90,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yuanpngn/yuanpngn/main/assets/bar_graph.png)
 
 
- Last Updated on 13/08/2026 19:58:35 UTC
+ Last Updated on 14/08/2026 19:50:30 UTC
 <!--END_SECTION:waka-->
 
 
