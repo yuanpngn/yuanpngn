@@ -10,9 +10,9 @@
 ### ⏱️ Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-100%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-100%20hrs%2049%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-34%20hrs%2025%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-35%20hrs%2011%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -55,22 +55,44 @@ Sunday                   277 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    33 mins             ██████████████░░░░░░░░░░░   56.96 % 
+Swift                    23 mins             ██████████░░░░░░░░░░░░░░░   40.34 % 
+Text                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
 
 🔥 Editors: 
-Claude Code              1 min               █████████████████████████   100.00 % 
+Claude Code              33 mins             ██████████████░░░░░░░░░░░   55.46 % 
+GitHubDesktop            13 mins             ██████░░░░░░░░░░░░░░░░░░░   22.61 % 
+Xcode                    12 mins             █████░░░░░░░░░░░░░░░░░░░░   20.64 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Mako                     52 mins             ██████████████████████░░░   88.51 % 
+pwd_scraper              6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      58 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 47 mins (78.33%)
+
+✍️ 1,649 lines written by AI, 1 lines written by hand (99.94% AI-written)
+
+🔤 109,888 Input Tokens, 53,542 Output Tokens
+
+💵 $6.27 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 15 AI Prompts
+
+Sonnet                   1,649 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.94% of written lines came from AI
+📝 Concise Prompter — average 469 characters per prompt
+🔁 Iterative Prompter — average 15 prompts per session
+🚀 High AI Trust — 0.06% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -90,7 +112,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yuanpngn/yuanpngn/main/assets/bar_graph.png)
 
 
- Last Updated on 17/08/2026 19:21:50 UTC
+ Last Updated on 18/08/2026 19:12:45 UTC
 <!--END_SECTION:waka-->
 
 
