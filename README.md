@@ -55,46 +55,30 @@ Sunday                   277 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Other                    34 mins             █████████████░░░░░░░░░░░░   50.79 % 
-Swift                    24 mins             █████████░░░░░░░░░░░░░░░░   36.92 % 
-CSV                      4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
-Python                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-Text                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+CSV                      4 mins              █████████████░░░░░░░░░░░░   51.86 % 
+Python                   2 mins              ███████░░░░░░░░░░░░░░░░░░   29.59 % 
+Swift                    0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 
 🔥 Editors: 
-Claude Code              33 mins             ████████████░░░░░░░░░░░░░   48.90 % 
-GitHubDesktop            14 mins             █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
-Xcode                    13 mins             █████░░░░░░░░░░░░░░░░░░░░   19.62 % 
-VS Code                  7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
+VS Code                  6 mins              ██████████████████░░░░░░░   70.00 % 
+Claude Code              1 min               ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
+Xcode                    0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
+GitHubDesktop            0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
 
 🐱‍💻 Projects: 
-Mako                     53 mins             ████████████████████░░░░░   79.98 % 
-pwd_scraper              13 mins             █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
+pwd_scraper              6 mins              █████████████████████░░░░   82.19 % 
+Mako                     1 min               ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
 
 💻 Operating System: 
-Mac                      1 hr 7 mins         █████████████████████████   100.00 % 
+Mac                      8 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 47 mins (69.07%)
-
-✍️ 1,649 lines written by AI, 3 lines written by hand (99.82% AI-written)
-
-🔤 109,888 Input Tokens, 53,542 Output Tokens
-
-💵 $6.27 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 15 AI Prompts
-
-Sonnet                   1,649 lines         █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.82% of written lines came from AI
-📝 Concise Prompter — average 469 characters per prompt
-🔁 Iterative Prompter — average 15 prompts per session
-🚀 High AI Trust — 0.6% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -114,7 +98,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yuanpngn/yuanpngn/main/assets/bar_graph.png)
 
 
- Last Updated on 24/08/2026 19:19:46 UTC
+ Last Updated on 25/08/2026 19:32:14 UTC
 <!--END_SECTION:waka-->
 
 
