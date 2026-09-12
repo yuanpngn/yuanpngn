@@ -31,21 +31,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                208 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
-🌆 Daytime                218 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
-🌃 Evening                599 commits         ██████████░░░░░░░░░░░░░░░   39.07 % 
-🌙 Night                  508 commits         ████████░░░░░░░░░░░░░░░░░   33.14 % 
+🌞 Morning                211 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
+🌆 Daytime                218 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+🌃 Evening                599 commits         ██████████░░░░░░░░░░░░░░░   38.95 % 
+🌙 Night                  510 commits         ████████░░░░░░░░░░░░░░░░░   33.16 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   307 commits         █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
-Tuesday                  255 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
-Wednesday                216 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
-Thursday                 147 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
-Friday                   180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
-Saturday                 151 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
-Sunday                   277 commits         █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
+Monday                   307 commits         █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
+Tuesday                  255 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
+Wednesday                216 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+Thursday                 147 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
+Friday                   183 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
+Saturday                 153 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
+Sunday                   277 commits         █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
 ```
 
 
@@ -55,16 +55,20 @@ Sunday                   277 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Other                    12 mins             █████████████████████████   100.00 % 
+Other                    12 mins             ██████████████████████░░░   87.90 % 
+Python                   1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
+CSV                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 🔥 Editors: 
-Notes                    12 mins             █████████████████████████   100.00 % 
+Notes                    12 mins             ██████████████████████░░░   87.90 % 
+VS Code                  1 min               ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
 
 🐱‍💻 Projects: 
-pwd_scraper              12 mins             █████████████████████████   100.00 % 
+pwd_scraper              13 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      12 mins             █████████████████████████   100.00 % 
+Mac                      13 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -90,7 +94,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yuanpngn/yuanpngn/main/assets/bar_graph.png)
 
 
- Last Updated on 11/09/2026 21:32:48 UTC
+ Last Updated on 12/09/2026 21:08:26 UTC
 <!--END_SECTION:waka-->
 
 
