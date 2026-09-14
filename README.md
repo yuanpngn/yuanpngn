@@ -55,26 +55,45 @@ Sunday                   277 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Other                    9 mins              █████████████████████░░░░   85.22 % 
-Python                   1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
-CSV                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+TypeScript               49 mins             ███████████████░░░░░░░░░░   61.76 % 
+Other                    26 mins             ████████░░░░░░░░░░░░░░░░░   33.04 % 
+CSV                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-Notes                    9 mins              █████████████████████░░░░   85.22 % 
-VS Code                  1 min               ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
+Claude Code              1 hr 8 mins         █████████████████████░░░░   85.37 % 
+VS Code                  7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
+Notes                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
 
 🐱‍💻 Projects: 
-pwd_scraper              11 mins             █████████████████████████   100.00 % 
+whoop                    1 hr 13 mins        ███████████████████████░░   91.72 % 
+pwd_scraper              6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
 
 💻 Operating System: 
-Mac                      11 mins             █████████████████████████   100.00 % 
+Mac                      1 hr 20 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 hr 13 mins (91.51%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 247,373 Input Tokens, 113,430 Output Tokens
+
+💵 $9.32 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 5 AI Prompts
+
+Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📚 Verbose Prompter — average 22,534 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -94,7 +113,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yuanpngn/yuanpngn/main/assets/bar_graph.png)
 
 
- Last Updated on 13/09/2026 21:26:07 UTC
+ Last Updated on 14/09/2026 22:22:31 UTC
 <!--END_SECTION:waka-->
 
 
