@@ -10,9 +10,9 @@
 ### ⏱️ Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-100%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-101%20hrs%2048%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-35%20hrs%2011%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-36%20hrs%2025%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -55,45 +55,45 @@ Sunday                   277 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-TypeScript               49 mins             ███████████████░░░░░░░░░░   61.76 % 
-Other                    26 mins             ████████░░░░░░░░░░░░░░░░░   33.04 % 
-CSV                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
-Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Markdown                 1 hr 14 mins        ██████████░░░░░░░░░░░░░░░   41.20 % 
+TypeScript               49 mins             ███████░░░░░░░░░░░░░░░░░░   27.45 % 
+Other                    27 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
+Bash                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
+Text                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
 
 🔥 Editors: 
-Claude Code              1 hr 8 mins         █████████████████████░░░░   85.37 % 
-VS Code                  7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
-Notes                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+Claude Code              2 hrs 47 mins       ███████████████████████░░   92.26 % 
+VS Code                  12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+Notes                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 
 🐱‍💻 Projects: 
-whoop                    1 hr 13 mins        ███████████████████████░░   91.72 % 
-pwd_scraper              6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
+whoop                    2 hrs 57 mins       ████████████████████████░   97.69 % 
+pwd_scraper              4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
 
 💻 Operating System: 
-Mac                      1 hr 20 mins        █████████████████████████   100.00 % 
+Mac                      3 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 13 mins (91.51%)
+⏱ AI Coding Time: 2 hrs 57 mins (97.6%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 30 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 247,373 Input Tokens, 113,430 Output Tokens
+🔤 1,048,988 Input Tokens, 296,732 Output Tokens
 
-💵 $9.32 Estimated AI Cost This Week
+💵 $33.95 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 5 AI Prompts
+🧠 2 AI Sessions, 18 AI Prompts
 
-Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Fable                    30 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 22,534 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 6,955 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 38.78% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -113,7 +113,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yuanpngn/yuanpngn/main/assets/bar_graph.png)
 
 
- Last Updated on 14/09/2026 22:22:31 UTC
+ Last Updated on 15/09/2026 22:00:50 UTC
 <!--END_SECTION:waka-->
 
 
