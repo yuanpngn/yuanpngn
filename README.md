@@ -55,30 +55,31 @@ Sunday                   277 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Markdown                 1 hr 14 mins        ██████████░░░░░░░░░░░░░░░   40.91 % 
-TypeScript               49 mins             ███████░░░░░░░░░░░░░░░░░░   27.25 % 
-Other                    32 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
-Bash                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
-Text                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+Markdown                 1 hr 14 mins        █████████░░░░░░░░░░░░░░░░   35.24 % 
+TypeScript               49 mins             ██████░░░░░░░░░░░░░░░░░░░   23.47 % 
+Other                    40 mins             █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
+CSV                      18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
+Bash                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 47 mins       ███████████████████████░░   91.78 % 
-VS Code                  8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
-Notes                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+Claude Code              2 hrs 47 mins       ████████████████████░░░░░   79.05 % 
+VS Code                  29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
+Notes                    15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
 
 🐱‍💻 Projects: 
-whoop                    3 hrs 2 mins        █████████████████████████   100.00 % 
+whoop                    3 hrs 11 mins       ███████████████████████░░   90.07 % 
+pwd_scraper              21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
 
 💻 Operating System: 
-Mac                      3 hrs 2 mins        █████████████████████████   100.00 % 
+Mac                      3 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 57 mins (97.08%)
+⏱ AI Coding Time: 2 hrs 57 mins (83.62%)
 
-✍️ 30 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 30 lines written by AI, 4 lines written by hand (88.24% AI-written)
 
 🔤 1,049,597 Input Tokens, 297,249 Output Tokens
 
@@ -89,10 +90,10 @@ Mac                      3 hrs 2 mins        ███████████�
 Fable                    30 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
+🤖 AI-Driven — 88.24% of written lines came from AI
 📚 Verbose Prompter — average 5,451 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🚀 High AI Trust — 16.67% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -112,7 +113,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yuanpngn/yuanpngn/main/assets/bar_graph.png)
 
 
- Last Updated on 19/09/2026 21:18:59 UTC
+ Last Updated on 20/09/2026 21:24:33 UTC
 <!--END_SECTION:waka-->
 
 
