@@ -10,7 +10,7 @@
 ### ⏱️ Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-103%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-103%20hrs%2049%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-38%20hrs%208%20mins-blue?style=flat)
 
@@ -55,44 +55,44 @@ Sunday                   277 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Markdown                 1 hr 14 mins        █████████░░░░░░░░░░░░░░░░   35.24 % 
-TypeScript               49 mins             ██████░░░░░░░░░░░░░░░░░░░   23.47 % 
-Other                    40 mins             █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
-CSV                      18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
-Bash                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
+Markdown                 1 hr 14 mins        ██████████████░░░░░░░░░░░   54.10 % 
+CSV                      18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
+Bash                     16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
+Other                    16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
+Text                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 47 mins       ████████████████████░░░░░   79.05 % 
-VS Code                  29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
-Notes                    15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+Claude Code              1 hr 38 mins        ██████████████████░░░░░░░   71.54 % 
+VS Code                  25 mins             █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
+Notes                    13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
 
 🐱‍💻 Projects: 
-whoop                    3 hrs 11 mins       ███████████████████████░░   90.07 % 
-pwd_scraper              21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
+whoop                    1 hr 57 mins        █████████████████████░░░░   84.75 % 
+pwd_scraper              21 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
 
 💻 Operating System: 
-Mac                      3 hrs 32 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 57 mins (83.62%)
+⏱ AI Coding Time: 1 hr 43 mins (74.97%)
 
 ✍️ 30 lines written by AI, 4 lines written by hand (88.24% AI-written)
 
-🔤 1,049,597 Input Tokens, 297,249 Output Tokens
+🔤 802,224 Input Tokens, 183,819 Output Tokens
 
-💵 $34.19 Estimated AI Cost This Week
+💵 $24.87 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 23 AI Prompts
+🧠 2 AI Sessions, 39 AI Prompts
 
 Fable                    30 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 88.24% of written lines came from AI
-📚 Verbose Prompter — average 5,451 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
+📝 Concise Prompter — average 346 characters per prompt
+🔁 Iterative Prompter — average 20 prompts per session
 🚀 High AI Trust — 16.67% of changed lines were hand-edited
 ```
 
@@ -113,7 +113,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yuanpngn/yuanpngn/main/assets/bar_graph.png)
 
 
- Last Updated on 20/09/2026 21:24:33 UTC
+ Last Updated on 21/09/2026 22:32:39 UTC
 <!--END_SECTION:waka-->
 
 
