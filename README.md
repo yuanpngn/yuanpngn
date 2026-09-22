@@ -55,45 +55,45 @@ Sunday                   277 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Markdown                 1 hr 14 mins        ██████████████░░░░░░░░░░░   54.10 % 
-CSV                      18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
-Bash                     16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
-Other                    16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
-Text                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+CSV                      18 mins             █████████████░░░░░░░░░░░░   53.37 % 
+Other                    13 mins             ██████████░░░░░░░░░░░░░░░   38.72 % 
+Python                   2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-Claude Code              1 hr 38 mins        ██████████████████░░░░░░░   71.54 % 
-VS Code                  25 mins             █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
-Notes                    13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
+VS Code                  21 mins             ███████████████░░░░░░░░░░   60.37 % 
+Notes                    13 mins             ██████████░░░░░░░░░░░░░░░   38.72 % 
+Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 
 🐱‍💻 Projects: 
-whoop                    1 hr 57 mins        █████████████████████░░░░   84.75 % 
-pwd_scraper              21 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
+pwd_scraper              21 mins             ███████████████░░░░░░░░░░   60.37 % 
+whoop                    13 mins             ██████████░░░░░░░░░░░░░░░   39.63 % 
 
 💻 Operating System: 
-Mac                      2 hrs 18 mins       █████████████████████████   100.00 % 
+Mac                      34 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 43 mins (74.97%)
+⏱ AI Coding Time: 0 secs (0.91%)
 
-✍️ 30 lines written by AI, 4 lines written by hand (88.24% AI-written)
+✍️ 0 lines written by AI, 4 lines written by hand (0.0% AI-written)
 
-🔤 802,224 Input Tokens, 183,819 Output Tokens
+🔤 609 Input Tokens, 517 Output Tokens
 
-💵 $24.87 Estimated AI Cost This Week
+💵 $0.24 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 39 AI Prompts
+🧠 1 AI Sessions, 26 AI Prompts
 
-Fable                    30 lines            █████████████████████████   100.00 % 
+Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 88.24% of written lines came from AI
-📝 Concise Prompter — average 346 characters per prompt
-🔁 Iterative Prompter — average 20 prompts per session
-🚀 High AI Trust — 16.67% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 37 characters per prompt
+🔁 Iterative Prompter — average 26 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -113,7 +113,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yuanpngn/yuanpngn/main/assets/bar_graph.png)
 
 
- Last Updated on 21/09/2026 22:32:39 UTC
+ Last Updated on 22/09/2026 21:57:58 UTC
 <!--END_SECTION:waka-->
 
 
