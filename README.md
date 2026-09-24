@@ -14,7 +14,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-38%20hrs%208%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -55,18 +55,18 @@ Sunday                   277 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-CSV                      18 mins             █████████████░░░░░░░░░░░░   53.86 % 
-Other                    13 mins             ██████████░░░░░░░░░░░░░░░   39.07 % 
-Python                   2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
+CSV                      18 mins             ██████████████░░░░░░░░░░░   54.01 % 
+Other                    13 mins             ██████████░░░░░░░░░░░░░░░   38.90 % 
+Python                   2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-VS Code                  21 mins             ███████████████░░░░░░░░░░   60.93 % 
-Notes                    13 mins             ██████████░░░░░░░░░░░░░░░   39.07 % 
+VS Code                  21 mins             ███████████████░░░░░░░░░░   61.10 % 
+Notes                    13 mins             ██████████░░░░░░░░░░░░░░░   38.90 % 
 
 🐱‍💻 Projects: 
-pwd_scraper              21 mins             ███████████████░░░░░░░░░░   60.93 % 
-whoop                    13 mins             ██████████░░░░░░░░░░░░░░░   39.07 % 
+pwd_scraper              21 mins             ███████████████░░░░░░░░░░   61.10 % 
+whoop                    13 mins             ██████████░░░░░░░░░░░░░░░   38.90 % 
 
 💻 Operating System: 
 Mac                      34 mins             █████████████████████████   100.00 % 
@@ -95,7 +95,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yuanpngn/yuanpngn/main/assets/bar_graph.png)
 
 
- Last Updated on 23/09/2026 22:04:24 UTC
+ Last Updated on 24/09/2026 22:05:13 UTC
 <!--END_SECTION:waka-->
 
 
