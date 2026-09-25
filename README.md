@@ -55,21 +55,21 @@ Sunday                   277 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-CSV                      18 mins             ██████████████░░░░░░░░░░░   54.01 % 
-Other                    13 mins             ██████████░░░░░░░░░░░░░░░   38.90 % 
-Python                   2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+CSV                      18 mins             ████████████████░░░░░░░░░   63.30 % 
+Other                    8 mins              ███████░░░░░░░░░░░░░░░░░░   28.39 % 
+Python                   2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔥 Editors: 
-VS Code                  21 mins             ███████████████░░░░░░░░░░   61.10 % 
-Notes                    13 mins             ██████████░░░░░░░░░░░░░░░   38.90 % 
+VS Code                  21 mins             ██████████████████░░░░░░░   71.61 % 
+Notes                    8 mins              ███████░░░░░░░░░░░░░░░░░░   28.39 % 
 
 🐱‍💻 Projects: 
-pwd_scraper              21 mins             ███████████████░░░░░░░░░░   61.10 % 
-whoop                    13 mins             ██████████░░░░░░░░░░░░░░░   38.90 % 
+pwd_scraper              21 mins             ██████████████████░░░░░░░   71.61 % 
+whoop                    8 mins              ███████░░░░░░░░░░░░░░░░░░   28.39 % 
 
 💻 Operating System: 
-Mac                      34 mins             █████████████████████████   100.00 % 
+Mac                      29 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -95,7 +95,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yuanpngn/yuanpngn/main/assets/bar_graph.png)
 
 
- Last Updated on 24/09/2026 22:05:13 UTC
+ Last Updated on 25/09/2026 22:09:48 UTC
 <!--END_SECTION:waka-->
 
 
