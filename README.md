@@ -31,21 +31,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                211 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
-🌆 Daytime                218 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
-🌃 Evening                599 commits         ██████████░░░░░░░░░░░░░░░   38.95 % 
-🌙 Night                  510 commits         ████████░░░░░░░░░░░░░░░░░   33.16 % 
+🌞 Morning                217 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
+🌆 Daytime                222 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
+🌃 Evening                611 commits         ██████████░░░░░░░░░░░░░░░   38.87 % 
+🌙 Night                  522 commits         ████████░░░░░░░░░░░░░░░░░   33.21 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   307 commits         █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
-Tuesday                  255 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
-Wednesday                216 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
-Thursday                 147 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
-Friday                   183 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
-Saturday                 153 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
-Sunday                   277 commits         █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
+Monday                   316 commits         █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
+Tuesday                  257 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
+Wednesday                222 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
+Thursday                 147 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
+Friday                   186 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
+Saturday                 166 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
+Sunday                   278 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
 ```
 
 
@@ -55,23 +55,45 @@ Sunday                   277 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Other                    6 mins              █████████████████████████   100.00 % 
+Text                     17 mins             ██████████████░░░░░░░░░░░   56.77 % 
+Other                    10 mins             ████████░░░░░░░░░░░░░░░░░   33.44 % 
+Python                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
+Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
 
 🔥 Editors: 
-GitHubDesktop            6 mins              █████████████████████████   99.17 % 
-Notion                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+VS Code                  22 mins             ██████████████████░░░░░░░   70.72 % 
+GitHubDesktop            9 mins              ███████░░░░░░░░░░░░░░░░░░   29.11 % 
+Notion                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 🐱‍💻 Projects: 
-pwd_scraper              6 mins              █████████████████████████   100.00 % 
+audio_transcriptor       22 mins             ██████████████████░░░░░░░   70.72 % 
+pwd_scraper              9 mins              ███████░░░░░░░░░░░░░░░░░░   29.28 % 
 
 💻 Operating System: 
-Mac                      6 mins              █████████████████████████   100.00 % 
+Mac                      31 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 18 mins (59.65%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 171,397 Input Tokens, 1,072 Output Tokens
+
+💵 $0.53 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 6 AI Prompts
+
+Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Vscode                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 18 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -91,7 +113,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yuanpngn/yuanpngn/main/assets/bar_graph.png)
 
 
- Last Updated on 28/10/2026 22:52:52 UTC
+ Last Updated on 29/10/2026 23:01:08 UTC
 <!--END_SECTION:waka-->
 
 
