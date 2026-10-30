@@ -10,9 +10,9 @@
 ### ⏱️ Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-103%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-104%20hrs%2010%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-38%20hrs%208%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-38%20hrs%2027%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -31,21 +31,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                217 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
-🌆 Daytime                222 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
-🌃 Evening                611 commits         ██████████░░░░░░░░░░░░░░░   38.87 % 
-🌙 Night                  522 commits         ████████░░░░░░░░░░░░░░░░░   33.21 % 
+🌞 Morning                225 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
+🌆 Daytime                224 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
+🌃 Evening                618 commits         ██████████░░░░░░░░░░░░░░░   38.67 % 
+🌙 Night                  531 commits         ████████░░░░░░░░░░░░░░░░░   33.23 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   316 commits         █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
-Tuesday                  257 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
-Wednesday                222 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
-Thursday                 147 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
-Friday                   186 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
-Saturday                 166 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
-Sunday                   278 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
+Monday                   321 commits         █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
+Tuesday                  257 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
+Wednesday                226 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
+Thursday                 147 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+Friday                   192 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
+Saturday                 176 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+Sunday                   279 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
 ```
 
 
@@ -55,28 +55,29 @@ Sunday                   278 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Text                     17 mins             ██████████████░░░░░░░░░░░   56.77 % 
-Other                    10 mins             ████████░░░░░░░░░░░░░░░░░   33.44 % 
-Python                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
-Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+Other                    23 mins             █████████████░░░░░░░░░░░░   53.18 % 
+Text                     17 mins             ██████████░░░░░░░░░░░░░░░   39.93 % 
+Python                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
 
 🔥 Editors: 
-VS Code                  22 mins             ██████████████████░░░░░░░   70.72 % 
-GitHubDesktop            9 mins              ███████░░░░░░░░░░░░░░░░░░   29.11 % 
-Notion                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+VS Code                  22 mins             ████████████░░░░░░░░░░░░░   49.74 % 
+Notes                    13 mins             ███████░░░░░░░░░░░░░░░░░░   29.66 % 
+GitHubDesktop            9 mins              █████░░░░░░░░░░░░░░░░░░░░   20.47 % 
+Notion                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🐱‍💻 Projects: 
-audio_transcriptor       22 mins             ██████████████████░░░░░░░   70.72 % 
-pwd_scraper              9 mins              ███████░░░░░░░░░░░░░░░░░░   29.28 % 
+audio_transcriptor       35 mins             ████████████████████░░░░░   79.40 % 
+pwd_scraper              9 mins              █████░░░░░░░░░░░░░░░░░░░░   20.60 % 
 
 💻 Operating System: 
-Mac                      31 mins             █████████████████████████   100.00 % 
+Mac                      44 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 mins (59.65%)
+⏱ AI Coding Time: 18 mins (41.96%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
@@ -113,7 +114,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yuanpngn/yuanpngn/main/assets/bar_graph.png)
 
 
- Last Updated on 29/10/2026 23:01:08 UTC
+ Last Updated on 30/10/2026 22:51:48 UTC
 <!--END_SECTION:waka-->
 
 
